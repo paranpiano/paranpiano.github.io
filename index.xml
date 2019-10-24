@@ -1,52 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>APP BAKEHOUSE</title>
-    <link>http://www.appbakehouse.com/</link>
-    <description>Recent content on APP BAKEHOUSE</description>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.appbakehouse.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Us</title>
-      <link>http://www.appbakehouse.com/about/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.appbakehouse.com/about/</guid>
-      <description> Who We Are Out Mission </description>
-    </item>
-    
-    <item>
-      <title>Clients</title>
-      <link>http://www.appbakehouse.com/clients/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.appbakehouse.com/clients/</guid>
-      <description> Business to Business Business to Customer </description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>http://www.appbakehouse.com/services/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.appbakehouse.com/services/</guid>
-      <description> Mobile Apps Web Apps AI &amp;amp; ML </description>
-    </item>
-    
-    <item>
-      <title>Portfoio</title>
-      <link>http://www.appbakehouse.com/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.appbakehouse.com/portfolio/</guid>
-      <description> Mobile apps Portfolio Web apps Portfolio AI &amp;amp; ML Portfolio </description>
-    </item>
     
   </channel>
 </rss>
