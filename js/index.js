@@ -478,7 +478,7 @@
   headingNodes.forEach(function(node){
     link = createEl('a');
     icon = createEl('img');
-    icon.src = 'https://paranpiano.github.io/username.github.io/images/icons/link.svg';
+    icon.src = 'https://paranpiano.github.io/paranpiano.github.io/images/icons/link.svg';
     link.className = 'link';
     link.appendChild(icon);
     id = node.getAttribute('id');
